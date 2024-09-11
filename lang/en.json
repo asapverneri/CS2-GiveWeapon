@@ -1,0 +1,6 @@
+{
+  "no.access": "{green}[GiveWeapon] {red} You don't have access to this command. Please ensure you have {0} permission.",
+
+  "weapon.given": "{green}[GiveWeapon] {lime} {0} given.",
+  "weapon.invalid": "{green}[GiveWeapon] {red} {0} is invalid, please try again."
+} 
